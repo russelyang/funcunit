@@ -1,6 +1,6 @@
 load('steal/rhino/rhino.js')
 
-load('funcunit/syn/build.js')
+load('syn/build.js')
 
 steal.File('funcunit/dist').mkdir()
 steal.File('funcunit/dist/funcunit').mkdir()
